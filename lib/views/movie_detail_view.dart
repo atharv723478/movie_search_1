@@ -387,7 +387,7 @@ class MovieDetails extends StatelessWidget {
                     const SizedBox(height: 40),
                     Text(
                       "Actors",
-                      style: TextStyle( 
+                      style: TextStyle(
                           color: Colors.grey,
                           fontWeight: FontWeight.bold,
                           fontSize: s.width / 20
